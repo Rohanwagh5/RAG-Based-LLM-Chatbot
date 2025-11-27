@@ -1,4 +1,3 @@
-
 import os
 from langchain_community.embeddings import HuggingFaceBgeEmbeddings
 from langchain_qdrant import QdrantVectorStore  # CHANGED THIS LINE
